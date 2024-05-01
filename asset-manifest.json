@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Arslan-traders/static/js/main.842dc9a7.js",
+    "main.js": "/Arslan-traders/static/js/main.e3b8db2b.js",
     "index.html": "/Arslan-traders/index.html",
-    "main.842dc9a7.js.map": "/Arslan-traders/static/js/main.842dc9a7.js.map"
+    "main.e3b8db2b.js.map": "/Arslan-traders/static/js/main.e3b8db2b.js.map"
   },
   "entrypoints": [
-    "static/js/main.842dc9a7.js"
+    "static/js/main.e3b8db2b.js"
   ]
 }
